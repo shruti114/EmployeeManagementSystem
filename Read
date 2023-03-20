@@ -1,0 +1,4 @@
+Requirements:
+Mysql
+pip install pandas
+pip install streamlit
